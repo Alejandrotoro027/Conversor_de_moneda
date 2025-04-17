@@ -46,3 +46,11 @@ Aplicación de consola escrita en Java que convierte divisas usando datos reales
 
 ### 🎥 Demostración en consola
 
+https://github.com/Alejandrotoro027/Conversor_de_moneda/assets/ConversorMoneda.gif
+
+<details>
+<summary>Ver demostración en video</summary>
+
+![Demo](assets/ConversorMoneda.gif)
+
+</details>
