@@ -61,7 +61,7 @@ Para acceder al proyecto, seguí estos pasos:
 
 1. Cloná el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/tu-usuario/tu-repo.git](https://github.com/Alejandrotoro027/Conversor_de_moneda)
 
 Abrilo en tu IDE favorito y ejecutá la clase Main.
 
